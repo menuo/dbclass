@@ -1,0 +1,4 @@
+dbclass
+=======
+
+Classe de PHP
